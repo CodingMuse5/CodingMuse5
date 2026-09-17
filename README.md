@@ -61,7 +61,11 @@
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Engineered parallel VHDL RTL from C-based aerospace algorithms, ensuring bit-true accuracy while optimizing FPGA timing and resource utilization<br/>
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Executed Software-Hardware Co-simulation using C-based golden models to validate complex VHDL designs before synthesis
 </td>
-<td valign="top" align="center">—</td>
+<td valign="top" align="center">
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-B3005E?style=flat-square)](assets/certificates/ISRO_VSSC_Internship_Certificate.pdf)
+
+</td>
 </tr>
 </table>
 
