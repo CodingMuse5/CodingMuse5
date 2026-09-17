@@ -25,11 +25,9 @@
 
 ### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> About Me
 
-- 🎓 B.E. Electronics & Telecommunications @ **TSEC, University of Mumbai** (2023–2027)
-- 🛰️ Project Intern & Research Trainee @ **Vikram Sarabhai Space Centre (ISRO)** — VHDL RTL design & FPGA implementation
-- 🚀 Full-Stack Developer Intern @ **Krityam Solutions and Services** — React Native, Cloudflare Workers, TypeScript, Drizzle ORM
-- 🔭 Comfortable moving between low-level hardware/RTL work and full-stack product development
-- 💬 Ask me about React Native, Cloudflare Workers, or VHDL/FPGA design
+<img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> B.E. Electronics & Telecommunications @ **TSEC, University of Mumbai** (2023–2027)<br/>
+<img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Project Intern & Research Trainee @ **Vikram Sarabhai Space Centre (ISRO)**, VHDL RTL design & FPGA implementation<br/>
+<img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Full-Stack Developer Intern @ **Krityam Solutions and Services**, React Native, Cloudflare Workers, TypeScript, Drizzle ORM
 
 <br/>
 
