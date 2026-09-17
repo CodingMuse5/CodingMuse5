@@ -84,6 +84,9 @@
 <p align="center">
   <b>AI & APIs</b><br/>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NASA_APOD_API-000000?style=for-the-badge&logo=nasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 <p align="center">
