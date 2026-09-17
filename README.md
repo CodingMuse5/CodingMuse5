@@ -7,12 +7,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_ENTC_Student-TSEC_Mumbai-6f42c1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/💻_Full--Stack_Developer-React_%7C_Node-2ea44f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🛰️_FPGA_%2F_VHDL-ISRO--VSSC-orange?style=flat-square"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shreyasawant05/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
