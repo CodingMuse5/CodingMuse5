@@ -23,7 +23,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> About Me
 
 - 🎓 B.E. Electronics & Telecommunications @ **TSEC, University of Mumbai** (2023–2027)
 - 🛰️ Project Intern & Research Trainee @ **Vikram Sarabhai Space Centre (ISRO)** — VHDL RTL design & FPGA implementation
@@ -33,7 +33,7 @@
 
 <br/>
 
-### 📌 Experience Highlights
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> Experience Highlights
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> Tech Stack
 
 <p align="center">
   <b>Languages</b><br/>
@@ -111,25 +111,25 @@
 
 <br/>
 
-### 📅 Contribution Graph
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CodingMuse5/CodingMuse5/output/pink-snake.svg" alt="Shreya's GitHub contribution snake" width="100%"/>
 </p>
 
-### 📊 GitHub Stats
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingMuse5&theme=radical&hide_border=true" height="165"/>
 </p>
 
-### 🏆 GitHub Trophies
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.devomb.com/?username=CodingMuse5&theme=radical&no-frame=true&column=-1&rank=-?"/>
 </p>
 
-### 🧩 LeetCode Stats
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/CodingGirl05?theme=dark&font=Baloo%202&ext=heatmap"/>
@@ -137,7 +137,7 @@
 
 <br/>
 
-### 🚀 Featured Projects
+### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> Featured Projects
 
 <table width="100%">
 <tr>
