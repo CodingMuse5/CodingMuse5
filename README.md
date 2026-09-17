@@ -109,7 +109,7 @@
 ### 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/f75c7e/CodingMuse5" alt="Shreya's GitHub contribution chart" width="100%"/>
+  <img src="https://raw.githubusercontent.com/CodingMuse5/CodingMuse5/output/pink-snake.svg" alt="Shreya's GitHub contribution snake" width="100%"/>
 </p>
 
 ### 📊 GitHub Stats
