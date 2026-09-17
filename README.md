@@ -140,7 +140,13 @@
 
 A full-stack space dashboard that serves NASA's daily Astronomy Picture and live near-Earth asteroid data, with JWT auth, a "Space Buddies" recommender that matches users by shared likes, and a Gemini-powered AI co-pilot.
 
-<img src="https://img.shields.io/badge/-%20-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-%20-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=express&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-47A248?style=flat-square&logo=mongodb&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="32"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
