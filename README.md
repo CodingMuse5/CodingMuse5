@@ -35,41 +35,37 @@
 
 <div align="center">
 
-<table bgcolor="#B3005E" cellpadding="2" cellspacing="0" border="0">
-<tr><td>
-<table bgcolor="#ffffff" cellpadding="10" cellspacing="0" border="0" width="100%">
-<tr bgcolor="#ffffff">
-<th><font color="#000000">Role</font></th>
-<th><font color="#000000">Organization</font></th>
-<th><font color="#000000">Focus Area</font></th>
-<th><font color="#000000">Certificate</font></th>
+<img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" height="4" width="760"/>
+
+<table cellpadding="10" cellspacing="0" width="100%">
+<tr>
+<th>Role</th>
+<th>Organization</th>
+<th>Focus Area</th>
+<th>Certificate</th>
 </tr>
-<tr bgcolor="#ffffff">
-<td valign="top"><font color="#000000">Full-Stack Developer Intern</font></td>
-<td valign="top"><font color="#000000">Krityam Solutions and Services</font></td>
+<tr>
+<td valign="top">Full-Stack Developer Intern</td>
+<td valign="top">Krityam Solutions and Services</td>
 <td valign="top">
-<font color="#000000">
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Integrated Google Places API &amp; Android Maps SDK across React Native and Cloudflare Workers, securing keys via SHA-1 fingerprinting<br/>
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Built a TypeScript + Drizzle ORM bot that intercepts Shopify webhooks and streams real-time order updates via the Telegram Bot API<br/>
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Optimized GitHub Actions CI/CD pipelines for serverless deployment, resolving lockfile conflicts and upgrading Node.js runtimes
-</font>
 </td>
-<td valign="top" align="center"><font color="#000000">—</font></td>
+<td valign="top" align="center">—</td>
 </tr>
-<tr bgcolor="#ffffff">
-<td valign="top"><font color="#000000">Project Intern & Research Trainee</font></td>
-<td valign="top"><font color="#000000">ISRO – Vikram Sarabhai Space Centre</font></td>
+<tr>
+<td valign="top">Project Intern & Research Trainee</td>
+<td valign="top">ISRO – Vikram Sarabhai Space Centre</td>
 <td valign="top">
-<font color="#000000">
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Engineered parallel VHDL RTL from C-based aerospace algorithms, ensuring bit-true accuracy while optimizing FPGA timing and resource utilization<br/>
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Executed Software-Hardware Co-simulation using C-based golden models to validate complex VHDL designs before synthesis
-</font>
 </td>
-<td valign="top" align="center"><font color="#000000">—</font></td>
+<td valign="top" align="center">—</td>
 </tr>
 </table>
-</td></tr>
-</table>
+
+<img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" height="4" width="760"/>
 
 </div>
 
