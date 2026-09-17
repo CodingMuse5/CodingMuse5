@@ -177,15 +177,6 @@ A brief description of what Project 3 is and the problem it solves. Replace this
 `Java` `PostgreSQL` `Docker`
 
 </td>
-<td width="50%" valign="top">
-
-**[Project Name 4](https://github.com/CodingMuse5/repo-4)**
-
-A brief description of what Project 4 is and the problem it solves. Replace this text with your actual project description.
-
-`VHDL` `FPGA`
-
-</td>
 </tr>
 </table>
 
