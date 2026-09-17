@@ -118,6 +118,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingMuse5&theme=radical&hide_border=true" height="165"/>
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.devomb.com/?username=CodingMuse5&theme=radical&no-frame=true&row=1&column=7"/>
+</p>
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CodingGirl05?theme=dark&font=Baloo%202&ext=heatmap"/>
+</p>
+
 <br/>
 
 ### 🚀 Featured Projects
