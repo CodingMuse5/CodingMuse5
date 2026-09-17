@@ -153,7 +153,7 @@ A full-stack space dashboard that serves NASA's daily Astronomy Picture and live
 
 **[Beacon](https://beacon-gules-sigma.vercel.app/)**
 
-A full-stack AI hiring platform that parses resumes and JDs with Gemini, ranks candidates with a composite pgvector + skill-overlap score, and explains every match with a citation-backed "Why this match?" insight engine — all served across a Node/Express + Python/FastAPI microservice split on Supabase/Postgres.
+A full-stack AI hiring platform that parses resumes and JDs with Gemini, ranks candidates with a composite pgvector + skill-overlap score, and explains every match with a citation-backed "Why this match?" insight engine, all served across a Node/Express + Python/FastAPI microservice split on Supabase/Postgres.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="32"/>
