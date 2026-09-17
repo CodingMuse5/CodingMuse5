@@ -121,7 +121,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.devomb.com/?username=CodingMuse5&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-trophies.devomb.com/?username=CodingMuse5&theme=radical&no-frame=true&row=1&column=7&rank=-?"/>
 </p>
 
 ### 🧩 LeetCode Stats
