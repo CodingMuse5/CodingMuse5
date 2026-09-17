@@ -136,11 +136,11 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Project Name 1](https://github.com/CodingMuse5/repo-1)**
+**[Daily Cosmos](https://daily-cosmos-rca3.vercel.app/)**
 
-A brief description of what Project 1 is and the problem it solves. Replace this text with your actual project description.
+A full-stack space dashboard that serves NASA's daily Astronomy Picture and live near-Earth asteroid data, with JWT auth, a "Space Buddies" recommender that matches users by shared likes, and a Gemini-powered AI co-pilot.
 
-`React` `Node.js` `MongoDB`
+`React` `Node.js` `Express` `MongoDB` `Gemini API`
 
 </td>
 <td width="50%" valign="top">
