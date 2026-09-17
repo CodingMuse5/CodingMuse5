@@ -151,11 +151,19 @@ A full-stack space dashboard that serves NASA's daily Astronomy Picture and live
 </td>
 <td width="50%" valign="top">
 
-**[Project Name 2](https://github.com/CodingMuse5/repo-2)**
+**[Beacon](https://beacon-gules-sigma.vercel.app/)**
 
-A brief description of what Project 2 is and the problem it solves. Replace this text with your actual project description.
+A full-stack AI hiring platform that parses resumes and JDs with Gemini, ranks candidates with a composite pgvector + skill-overlap score, and explains every match with a citation-backed "Why this match?" insight engine — all served across a Node/Express + Python/FastAPI microservice split on Supabase/Postgres.
 
-`TypeScript` `React Native` `Firebase`
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-3178C6?style=flat-square&logo=typescript&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-339933?style=flat-square&logo=node.js&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=express&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-009688?style=flat-square&logo=fastapi&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-3ECF8E?style=flat-square&logo=supabase&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="32"/>
+</p>
 
 </td>
 </tr>
