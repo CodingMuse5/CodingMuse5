@@ -21,7 +21,7 @@
   </a>
 </p>
 
----
+<p align="center"><img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" height="4" width="900"/></p>
 
 ### <img src="https://img.shields.io/badge/-%20-B3005E?style=flat-square" width="10" height="10"/> About Me
 
