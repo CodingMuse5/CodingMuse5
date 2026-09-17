@@ -168,13 +168,20 @@ A full-stack AI hiring platform that parses resumes and JDs with Gemini, ranks c
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2"><br/></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-**[Project Name 3](https://github.com/CodingMuse5/repo-3)**
+**[Portfolio](https://codingmuse5.github.io/Portfolio/)**
 
-A brief description of what Project 3 is and the problem it solves. Replace this text with your actual project description.
+My personal portfolio website, built to showcase my projects, experience, and skills.
 
-`Java` `PostgreSQL` `Docker`
+<p align="center">
+  <img src="https://img.shields.io/badge/-%20-E34F26?style=flat-square&logo=html5&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-1572B6?style=flat-square&logo=css3&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/-%20-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="32"/>
+</p>
 
 </td>
 </tr>
