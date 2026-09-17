@@ -120,6 +120,7 @@
   <img src="https://img.shields.io/badge/NASA_APOD_API-000000?style=for-the-badge&logo=nasa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
 <p align="center">
