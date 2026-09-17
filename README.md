@@ -92,16 +92,17 @@
 </p>
 
 <p align="center">
-  <b>Embedded & Hardware</b><br/>
-  <img src="https://img.shields.io/badge/VHDL-1E415E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-663399?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <b>Tools</b><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>AI Coding Tools</b><br/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white"/>
 </p>
 
 <br/>
