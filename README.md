@@ -52,7 +52,11 @@
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Built a TypeScript + Drizzle ORM bot that intercepts Shopify webhooks and streams real-time order updates via the Telegram Bot API<br/>
 <img src="https://img.shields.io/badge/-%20-F6A6C1?style=flat-square" width="8" height="8"/> Optimized GitHub Actions CI/CD pipelines for serverless deployment, resolving lockfile conflicts and upgrading Node.js runtimes
 </td>
-<td valign="top" align="center">—</td>
+<td valign="top" align="center">
+
+[![View Certificate](https://img.shields.io/badge/View-Certificate-B3005E?style=flat-square)](assets/certificates/Krityam_Internship_Certificate.pdf)
+
+</td>
 </tr>
 <tr>
 <td valign="top">Project Intern & Research Trainee</td>
